@@ -7,3 +7,12 @@
 лабораторных работ выбранной из списка группы;
 лекций указанного преподавателя по указанной дисциплине;
 аудитории.
+
+![image](https://user-images.githubusercontent.com/91470828/178338262-ecace662-8767-4bb4-9294-f4f6b5386f22.png)
+![image](https://user-images.githubusercontent.com/91470828/178338293-ac6e76da-b420-43a5-985f-7cb4b6aa9511.png)
+![image](https://user-images.githubusercontent.com/91470828/178338330-3eec47d4-5bd1-441b-9ac5-5552644e20ed.png)
+
+![image](https://user-images.githubusercontent.com/91470828/178338340-0423c7a9-c490-44b5-8d18-b297884c0046.png)
+
+![image](https://user-images.githubusercontent.com/91470828/178338406-d77436fc-46ff-4328-988f-406625bac464.png)
+![image](https://user-images.githubusercontent.com/91470828/178338418-bbae15ab-5749-4d37-be43-e2be9c80d7dc.png)
